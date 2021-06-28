@@ -4,7 +4,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagop-o&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagop-o&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagop-o&layout=compact)
 
 <!---
 thiagop-o/thiagop-o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
