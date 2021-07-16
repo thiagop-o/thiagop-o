@@ -37,6 +37,10 @@
             </ul>
         </li>
         <li><strong>C#</strong>
+            <ul>
+            <li><a href="https://github.com/thiagop-o/dotnet_websocket_takeblip">WebSocket com .Net</a>
+            <li><a href="https://github.com/thiagop-o/api_dotnet_com_mongo">API.NET integrada ao MongoDB</a>
+            </ul>
         </li>
         <li><strong>HTML</strong>
         </li>
