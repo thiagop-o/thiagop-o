@@ -23,31 +23,7 @@
 - - -
 <h2>Studies && Projects || Estudos && Projetos</h2>
 <details>
-    <summary><Font Size = "5"><strong>Projetos</strong></Font></summary>
-    <ul>
-        <li><strong>JAVA</strong>
-            <ul>
-            <li><a href="https://github.com/thiagop-o/java_angular_sala_reuniao">Sala de Reunião com Springboot e Angular</a>
-            <li><a href="https://github.com/thiagop-o/java_apirest_cities">API Rest para Calculo de Cidades</a>
-            <li><a href="https://github.com/thiagop-o/JAVA_API_Rest_gerenciamento_cerveja">API Rest de gerenciamento de estoque de cervejas</a>
-            <li><a href="https://github.com/thiagop-o/java_personapi-dio">API Rest De gerenciamento de pessoas</a>
-            <li><a href="https://github.com/thiagop-o/ecommerce-javaweb">E-commerce utilizando JSP, Springboot, Framework Olimpo e mais...</a>
-            <li><a href="https://github.com/thiagop-o/calculadora-javaswing">Calculadora com JSwing</a>
-            <li><a href="https://github.com/thiagop-o/campo-minado-javaswing">Campo Minado com JSwing</a>
-            </ul>
-        </li>
-        <li><strong>C#</strong>
-        </li>
-        <li><strong>HTML</strong>
-        </li>
-        <li><strong>Javascript</strong></li>
-        <li><strong>React</strong></li>
-        <li><strong>Ruby</strong></li>
-        <li><strong>Python</strong></li>
-    </ul>
-</details>
-<details>
-    <summary><Font Size = "5"><strong>Estudos</strong></Font></summary>
+    <summary><Font Size = "5"><strong>Estudos e Projetos</strong></Font></summary>
     <ul>
         <li><strong>JAVA</strong>
             <ul>
