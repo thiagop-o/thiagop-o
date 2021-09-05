@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React, Angular, .NET, JAVA and other languages**
 
-- 📫 How to reach me **devfs.thiago.oliveira@outlook.com**
+- 📫 How to reach me **devfs.thiago.oliveira@outlook.com** || **thiagop_o@hotmail.com**
 </br>
 <h3 align="left">Connect with me || Conecte-se comigo :</h3>
 <p align="left">
